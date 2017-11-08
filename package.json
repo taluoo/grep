@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/taluoo/grep/issues"
   },
-  "homepage": "https://github.com/taluoo/grep#readme"
+  "homepage": "https://github.com/taluoo/grep#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^4.0.1"
+  }
 }
