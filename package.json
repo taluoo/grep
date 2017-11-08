@@ -1,0 +1,19 @@
+{
+  "name": "@taluoo/grep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taluoo/grep.git"
+  },
+  "author": "taluoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taluoo/grep/issues"
+  },
+  "homepage": "https://github.com/taluoo/grep#readme"
+}
